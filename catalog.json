@@ -1,0 +1,10 @@
+{
+  "modules": [
+    {
+      "id": "catalog_connectivity_demo",
+      "title": "Prueba de conexión al catálogo (no instalable)",
+      "version": "1.0.0",
+      "dataset_schema_versions": ["1.0", "1.1"]
+    }
+  ]
+}
